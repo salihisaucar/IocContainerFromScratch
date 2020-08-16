@@ -1,0 +1,14 @@
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Example.Ioc.Container.exe
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Example.Ioc.Container.deps.json
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Example.Ioc.Container.runtimeconfig.json
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Example.Ioc.Container.runtimeconfig.dev.json
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Example.Ioc.Container.dll
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Example.Ioc.Container.pdb
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Ioc.Container.dll
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\bin\Debug\netcoreapp3.1\Ioc.Container.pdb
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\obj\Debug\netcoreapp3.1\Example.Ioc.Container.csprojAssemblyReference.cache
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\obj\Debug\netcoreapp3.1\Example.Ioc.Container.AssemblyInfoInputs.cache
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\obj\Debug\netcoreapp3.1\Example.Ioc.Container.AssemblyInfo.cs
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\obj\Debug\netcoreapp3.1\Example.Ioc.Container.csproj.CopyComplete
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\obj\Debug\netcoreapp3.1\Example.Ioc.Container.dll
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Example.Ioc.Container\obj\Debug\netcoreapp3.1\Example.Ioc.Container.pdb

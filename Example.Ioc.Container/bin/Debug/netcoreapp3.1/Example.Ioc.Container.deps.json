@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Example.Ioc.Container/1.0.0": {
+        "dependencies": {
+          "Ioc.Container": "1.0.0"
+        },
+        "runtime": {
+          "Example.Ioc.Container.dll": {}
+        }
+      },
+      "Ioc.Container/1.0.0": {
+        "runtime": {
+          "Ioc.Container.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example.Ioc.Container/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ioc.Container/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

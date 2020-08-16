@@ -1,0 +1,8 @@
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\obj\Debug\netstandard2.0\Ioc.Container.csprojAssemblyReference.cache
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\obj\Debug\netstandard2.0\Ioc.Container.AssemblyInfoInputs.cache
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\obj\Debug\netstandard2.0\Ioc.Container.AssemblyInfo.cs
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\bin\Debug\netstandard2.0\Ioc.Container.deps.json
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\bin\Debug\netstandard2.0\Ioc.Container.dll
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\bin\Debug\netstandard2.0\Ioc.Container.pdb
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\obj\Debug\netstandard2.0\Ioc.Container.dll
+C:\Users\tr32996\source\repos\Example.Ioc.Container\Ioc.Container\obj\Debug\netstandard2.0\Ioc.Container.pdb
